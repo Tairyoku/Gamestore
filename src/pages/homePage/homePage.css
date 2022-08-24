@@ -1,0 +1,5 @@
+.home-Page {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: inherit;
+}
